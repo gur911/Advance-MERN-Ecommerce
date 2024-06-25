@@ -34,8 +34,8 @@ Review the order summary carefully before finalizing the purchase. You will then
 Summary of order👇
 <img src="/Images/6shipping.png">
 Payment Process👇
-<img src="Images/7payment.png">
-<img src="Images/8payment.png">
+<img src="/Images/7payment.png">
+<img src="/Images/8payment.png">
 
 After the order is successfully placed, the admin has the option to mark the order as delivered, ensuring proper tracking and confirmation of the order status.
 
@@ -45,20 +45,32 @@ Sucessfully Placed Order👇
 Additionally, there is an admin dashboard that provides an overview of daily sales, allowing the admin to monitor the number of sales each day.
 
 Admin Dashboard👇
-<img src="Images/10admindash.png">
+<img src="/Images/10admindash.png">
 
 Another feature of the admin dashboard allows the admin to manage the product stash. If there are new items to be added, the admin can easily add them to the inventory. There is also a category management feature, enabling the admin to update, delete, or add new categories as needed.
 
 Create Product👇
-<img src="Images/11createproduct.png">
-Create Own Category
-<img src="Images/12createowncategory.png">
+<img src="/Images/11createproduct.png">
+Create Own Category👇
+<img src="/Images/12createowncategory.png">
 
 The admin has access to view all orders placed by customers on the website, providing a comprehensive overview of all customer transactions.
 
 All Orders👇
-<img src="Images/13allorders.png">
+<img src="/Images/13allorders.png">
 
+The admin has access to view all users, including their IDs and other relevant information, while ensuring that passwords remain confidential and are not accessible.
+
+All Users👇
+<img src="/Images/14allusers.png">
+
+If users want to change their password or username, they have the option to do so through their account settings.
+
+Update Profile👇
+<img src="/Images/15updateprofilefeature.png">
+
+Project ended here...
+<img src="/Images/combineproject.png">
 
 
 
